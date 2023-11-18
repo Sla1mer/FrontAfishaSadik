@@ -77,3 +77,187 @@ header {
     color: black;
     font-weight: 600;
 }
+
+.afisha {
+    margin-top: 120px;
+}
+
+.container-title-afisha {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+}
+
+.title-afisha-container {
+    display: flex;
+    width: 92%;
+    justify-content: space-between;
+}
+
+.events-container {
+    display: flex;
+    align-items: center;
+}
+
+.title-afisha {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.event-title {
+    font-weight: 700;
+    color: #191919;
+    margin-left: 15px;
+}
+
+.events-container img {
+    width: 15%;
+}
+
+.container-afisha {
+    width: 75%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tickets {
+
+    margin-top: 100px;
+}
+
+
+.ticket {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    margin-bottom: 80px;
+    background-color: #1919190D;
+    padding: 22px 60px;
+    border-radius: 10px;
+}
+
+.date {
+    text-align: center;
+    margin-right: 60px;
+}
+
+.day {
+    font-weight: 700;
+    font-size: 54px;
+    color: #191919;
+    opacity: 0.75;
+}
+
+.month {
+    font-size: 700;
+    font-size: 22px;
+    color: #191919;
+    opacity: 0.75;
+}
+
+.ticket-poster {
+    width: 30%;
+}
+
+.desc-ticket {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+    height: 210px;
+    margin-left: 50px;
+}
+
+.name {
+    font-weight: 700;
+    font-size: 23px;
+    color: #191919;
+}
+
+.desc {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 16px;
+    margin-bottom: 60px;
+    opacity: 0.75class="specification-card-img";
+}
+
+.specification {
+    display: flex;
+}
+
+.specification-card {
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.specification-title {
+    margin-left: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    opacity: 0.75;
+}
+
+.specification-card-img {
+    width: 30%;
+}
+
+.btn-buy-ticket {
+    text-decoration: none;
+    color: white;
+    padding: 15px 30px;
+    background-color: #05B093;
+    font-weight: 600;
+    font-size: 16px;
+    border-radius: 50px;
+}
+
+.container-news {
+    width: 75%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.title-news {
+    font-weight: 700;
+    color: #191919;
+    font-size: 28px;
+    line-height: 67px;
+    margin-bottom: 20px;
+}
+
+.news-cards {
+    display: flex;
+}
+
+.news-card {
+    width: 190px;
+    margin-right: 100px;
+}
+
+.news-card-img {
+    margin-bottom: 32px;
+    width: 120%;
+}
+
+.title-card-news {
+    font-weight: 500;
+    font-size: 24px;
+    margin-bottom: 24px;
+    color: #191919;
+}
+
+.desc-card-news {
+    opacity: 0.75;
+    font-weight: 400;
+    font-size: 16px;
+    color: #191919;
+}
