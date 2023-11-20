@@ -408,6 +408,11 @@ header {
     margin-right: 10px;
 }
 
+.short-anons-card:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
 .card-name  {
     font-size: 14px;
     font-weight: 600;
